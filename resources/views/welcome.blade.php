@@ -31,8 +31,7 @@
                         A natural language for After Effects.
                     </h1>
                     <p class="mx-auto max-w-3xl text-lg leading-relaxed text-zinc-600 sm:text-xl">
-                        Write a scene like a script. Keep it readable, shareable, and easy to update. Invite automation and AI into your workflow without sacrificing creative
-                        control.
+                        Use text to generate content, share presets, and automate workflows in After Effects.
                     </p>
                 </div>
             </section>
