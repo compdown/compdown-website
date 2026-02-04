@@ -3,6 +3,20 @@
 
 <head>
     @include('partials.head', ['title' => 'Compdown'])
+
+    <script>
+        window.op = window.op || function(...args) {
+            (window.op.q = window.op.q || []).push(args);
+        };
+        window.op('init', {
+            clientId: '64d85a90-3eee-447a-ac0a-adf6393f100b',
+            trackScreenViews: true,
+            trackOutgoingLinks: true,
+            trackAttributes: true,
+        });
+    </script>
+    <script src="https://openpanel.dev/op1.js" defer async></script>
+
 </head>
 
 <body class="bg-zinc-50 text-zinc-900 antialiased" data-theme="compdown">
